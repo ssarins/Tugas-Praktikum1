@@ -1,8 +1,3 @@
 # Tugas-Praktikum1
-
-\# Tugas-Praktikum1
-
-\# Deskripsi Project
-
+# Deskripsi Project
 Repository ini dibuat untuk memenuhi Tugas 1 Praktikum RSI mengenai Git dan GitHub Versioning. Project ini mensimulasikan alur kerja kolaborasi tim menggunakan Git, mulai dari pembagian role (Project Leader dan Developer), pembuatan branch untuk setiap anggota, proses commit dan push, pengajuan Pull Request, code review, hingga penyelesaian merge conflict sebelum akhirnya digabungkan (merge) ke branch main. Melalui tugas ini, setiap anggota kelompok mempelajari praktik version control dan kerja sama tim dalam pengembangan software menggunakan GitHub.
-
